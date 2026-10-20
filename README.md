@@ -11,13 +11,13 @@ Análisis de la empresa Shows para optimizar los gastos de marketing
 > Proyecto de Análisis Exploratorio (EDA) para ayudar a optimizar los gastos de merketing.
 
 ### 📊 ¿Qué hay en este repo?
-- **EDA Completo:** Limpieza, cómo los clientes usan el servicio, Metricas por usuario, Cuando comienzan a comprar, Cuánto dinero gana la compañia y Cuando los ingresos cubren el costo de aquisicion de clientes.
+- **EDA Completo:** Limpieza, Cómo los clientes usan el servicio, Metricas por usuario, Cuando comienzan a comprar, Cuánto dinero gana la compañia y Cuando los ingresos cubren el costo de aquisicion de clientes.
 - **PRINCIPALES HALLAZGOS:** Conteo de sesiones por usuario, Promedio de sesiones, Promedio de sesiones para usuarios nuevos, Porcentaje de usuarios que regresana la plataforma.
 - **Visualizaciones:** Gráficas de barras, Heatmaps de comportamiento, Grafico de dispersión CAC vs ROMI.
-- **📁 Archivo:** `llena_ese_carrito.ipynb`
+- **📁 Archivo:** `tienda_shows.ipynb`
 
 ### 🚀 Ver proyecto
-Abre el archivo `llena_ese_carrito.ipynb` para ver todo el análisis.
+Abre el archivo `tienda_shows.ipynb` para ver todo el análisis.
 
 ---
 Hecho por [cesarrmixer-beep](https://github.com/cesarrmixer-beep) | Jr. Data Analyst
