@@ -14,10 +14,10 @@ Análisis de la empresa Shows para optimizar los gastos de marketing
 - **EDA Completo:** Limpieza, Cómo los clientes usan el servicio, Metricas por usuario, Cuando comienzan a comprar, Cuánto dinero gana la compañia y Cuando los ingresos cubren el costo de aquisicion de clientes.
 - **PRINCIPALES HALLAZGOS:** Conteo de sesiones por usuario, Promedio de sesiones, Promedio de sesiones para usuarios nuevos, Porcentaje de usuarios que regresana la plataforma.
 - **Visualizaciones:** Gráficas de barras, Heatmaps de comportamiento, Grafico de dispersión CAC vs ROMI.
-- **📁 Archivo:** `tienda_shows.ipynb`
+- **📁 Archivo:** `tienda_showz.ipynb`
 
 ### 🚀 Ver proyecto
-Abre el archivo `tienda_shows.ipynb` para ver todo el análisis.
+Abre el archivo `tienda_showz.ipynb` para ver todo el análisis.
 
 ---
 Hecho por [cesarrmixer-beep](https://github.com/cesarrmixer-beep) | Jr. Data Analyst
