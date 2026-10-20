@@ -1,6 +1,6 @@
 # analisis-tienda-showz-venta-de-boletos.python
 Análisis de la empresa Shows para optimizar los gastos de marketing 
-
+ 
 # 🎫 Análisis de la empresa Shows - Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
