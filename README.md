@@ -2,7 +2,6 @@
 
 > ¿Cuánto dinero deja cada cliente, cuándo recuperamos lo que pagamos por traerlo y en qué canal de marketing debemos invertir?
 
-📊 **Datasets:** `visits` (sesiones) | `orders` (ingresos) | `costs` (gasto en ads)
 🐍 **Stack:** Python | Pandas | Cohort Analysis | LTV | CAC | ROMI | Marketing Analytics
 
 ---
